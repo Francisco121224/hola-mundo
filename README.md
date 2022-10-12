@@ -1,2 +1,2 @@
 # hola-mundo
-primer repositorio de pruebad
+primer repositorio de prueba
